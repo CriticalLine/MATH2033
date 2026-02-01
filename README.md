@@ -12,10 +12,10 @@ It is an **unofficial** backup of the course.
 
 ## Contents
 
-- Lecture notes (./lectures)
-- Assignments and solutions (./assignments)
-- Tutorial problems and solutions (./tutorials)
-- Past exam papers (./pastpapers)
+- [Lecture notes](./lectures)
+- [Assignments and solutions](./assignments)
+- [Tutorial problems and solutions](./tutorials)
+- [Past exam papers](./pastpapers)
 
 ## Lecture Videos
 
