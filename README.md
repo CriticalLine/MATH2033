@@ -12,14 +12,15 @@ It is an **unofficial** backup of the course.
 
 ## Contents
 
-- Lecture notes
-- Assignments and solutions
-- Tutorial problems and solutions
-- Past exam papers
+- Lecture notes (./lectures)
+- Assignments and solutions (./assignments)
+- Tutorial problems and solutions (./tutorials)
+- Past exam papers (./pastpapers)
 
 ## Lecture Videos
 
 [Lecture Recordings on YouTube](https://www.youtube.com/playlist?list=)
+
 ## Course Information
 
 - **Institution**: Hong Kong University of Science and Technology
@@ -29,6 +30,12 @@ It is an **unofficial** backup of the course.
 - **Credits**: 4
 - **Prerequisites**: MATH 1014 or MATH 1018 or MATH 1020 or MATH 1024
 - **Exclusions**: MATH 2031, MATH 2043
+
+## Grading Scheme
+
+- Homework: 15%
+- Midterm Exam: 10% (take-home exam)
+- Final Exam: 75% (2 hours. Will be arranged by ARRO)
 
 ## Getting Started
 
